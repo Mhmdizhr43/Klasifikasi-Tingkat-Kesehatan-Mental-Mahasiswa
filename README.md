@@ -1,6 +1,5 @@
 Klasifikasi Tingkat Kesehatan Mental Mahasiswa Berdasarkan Faktor Akademik dan Gaya Hidup
 
-Menggunakan algoritma
+Gradient Boosting,
+Random Forest,
 XGBoost,
-Random Forest, dan
-SVM
